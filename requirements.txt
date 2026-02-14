@@ -1,0 +1,10 @@
+langgraph
+langgraph-checkpoint
+boto3
+langchain-aws
+dspy-ai
+streamlit
+docker
+python-dotenv
+watchdog
+clickhouse-connect
